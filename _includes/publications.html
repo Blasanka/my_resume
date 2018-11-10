@@ -16,11 +16,11 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in publications.papers %}
+  {% for publication in publications.youtube %}
   <div class="item">
-    <div class="publication-title">{{ publication.title }}</div>
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="publication-title">{{ publication.channel }}</div>
+    <div class="publication-authors">{{ publication.about }}</div>
+    <div class="publication-conference">{{ publication.tags }}</div>
   </div><!--//item-->
   {% endfor %}
 

@@ -19,8 +19,8 @@ sidebar:
     github: blasanka
     gitlab: leoshak
     bitbucket: blasanka
-    twitter: '@blasanka'
-    stack-overflow: blasanka # Number/Username, e.g. 123456/alandoe
+    twitter: '@BLiyanageAsanka'
+    stack-overflow: 3675035/blasanka # Number/Username, e.g. 123456/alandoe
     codewars: blasanka
 
     languages:
@@ -113,67 +113,72 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Vocab the word reminder (Android SDK)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "This app will be a great choice to someone who wants to learn a new language. Download in playstore or get sourcecode."
 
-      - title: DevStudio
+      - title: Vocab the word reminder (Flutter Pro version)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "This is the pro version of the vocab with great features and this is not available in github. I used Flutter UI framework and the Firebase as the realtime database."
 
-      - title: Tempo
+      - title: StudyMate
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "To study effectively this app will be a great choice and this is built using Android and SQLite"
 
-      - title: Atom
+      - title: Limbcare
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Second year second Sem project for a real client(Limbcare (PVT) LTD.). using Laravel framework + MySQL"
 
-      - title: Delta
+      - title: vehicle Rent System
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A Java standalone application."
+
+      - title: other
+        link: "#"
+        tagline: "There are few other applications that I have built to learn new technologies like Angular, React."
 
 publications:
-    title: Publications
+    title: Me on the web
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I have been posting blog post and youtube videos since 2016 and it is a very interesting thing for me.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    youtube:
+      - channel: Ego with Coding
+        about: Programming
+        tags: Flutter, Java, Android, Firebase, JQuery
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - channel: Sinhala Coder
+        about: Programming
+        tags: Java, HTML, CSS, Javascript, PHP
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - channel: Sri Lanka Computer Graphics (SLCG)
+        about: Entertainment
+        tags: Lyrics, How to, Graphic Design, Animation, Top 10
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Dart
+        level: 65%
 
-      - name: Angular
-        level: 98%
+      - name: Python #& Django
+        level: 40%
+
+      - name: Javascript #& jQuery
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 88%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Node.js
+        level: 40%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Angular
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
