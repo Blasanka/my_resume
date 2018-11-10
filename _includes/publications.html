@@ -15,14 +15,38 @@
     {{ publications.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
+<div class="row">
+  <div class="col-sm-7">
+    {% if publications.subintro1 %}
+    <div class="subintro">
+      {{ publications.subintro1 | markdownify }}
+    </div><!--//intro-->
+    {% endif %}
+  
+    {% for publication in publications.youtube %}
+    <div class="item">
+      <div class="publication-title">{{ publication.channel }}</div>
+      <div class="publication-authors">{{ publication.about }}</div>
+      <div class="publication-conference">{{ publication.tags }}</div>
+    </div><!--//item-->
+    {% endfor %}  
+  </div>
+  <div class="col-sm-5">
+    {% if publications.subintro2 %}
+    <div class="subintro">
+      {{ publications.subintro2 | markdownify }}
+    </div><!--//intro-->
+    {% endif %}
 
-  {% for publication in publications.youtube %}
-  <div class="item">
-    <div class="publication-title">{{ publication.channel }}</div>
-    <div class="publication-authors">{{ publication.about }}</div>
-    <div class="publication-conference">{{ publication.tags }}</div>
-  </div><!--//item-->
-  {% endfor %}
+    {% for publication in publications.blog %}
+    <div class="item">
+      <div class="publication-title">{{ publication.channel }}</div>
+      <div class="publication-authors">{{ publication.about }}</div>
+      <div class="publication-conference">{{ publication.tags }}</div>
+    </div><!--//item-->
+    {% endfor %}
+  </div>
+</div>
 
 </section><!--//section-->
 {% endif %}

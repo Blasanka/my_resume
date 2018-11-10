@@ -12,9 +12,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    info: INFO
     email: blasanka95@yahoo.com
     phone: 0785413203
     website: blasanka.github.io #do not add http://
+    social: SOCIAL
     linkedin: B Liyanage Asanka
     github: blasanka
     gitlab: leoshak
@@ -28,16 +30,50 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
-        
+        level: Intermediate
+
+    hobies:
+      - item: Stackoverflow
+        link: https://stackoverflow.com/users/3675035/blasanka
+
+      - item: CodePen
+        link: https://codepen.io/blasanka/
+
+      - item: JSFiddle
+        link: https://jsfiddle.net/user/blasanka/fiddles/
+
+      - item: Gist
+        link: https://gist.github.com/Blasanka
+      
+      # - item: SQLFiddle
+      #   link: http://sqlfiddle.com/
+
+      # - item: Dribbble
+      #   link: https://dribbble.com/blasanka
+
+      - item: p5js
+        link: https://editor.p5js.org/blasanka/sketches
+    
     interests:
-      - item: Rap
+      - item: Photograpy + Graphic
+        link:
+
+      - item: Rap + Rock + Metal
         link:
 
       - item: Dancing
         link:
 
       - item: Parkour
+        link:
+
+      - item: Martial Art
+        link:
+
+      - item: Reading(Medium + book)
+        link:
+
+      - item: Watching(Youtube + movie)
         link:
 
 career-profile:
@@ -114,27 +150,27 @@ projects:
 
     assignments:
       - title: Vocab the word reminder (Android SDK)
-        link: "#hook"
+        link: "https://play.google.com/store/apps/details?id=com.sinhalacoder.android.vocab"
         tagline: "This app will be a great choice to someone who wants to learn a new language. Download in playstore or get sourcecode."
 
       - title: Vocab the word reminder (Flutter Pro version)
-        link: "#"
+        link: "https://blasanka.github.io/my_resume/vocab-pro"
         tagline: "This is the pro version of the vocab with great features and this is not available in github. I used Flutter UI framework and the Firebase as the realtime database."
 
       - title: StudyMate
-        link: "#"
+        link: "https://play.google.com/store/apps/details?id=com.mad.studymate&hl=en"
         tagline: "To study effectively this app will be a great choice and this is built using Android and SQLite"
 
       - title: Limbcare
-        link: "#"
+        link: "https://github.com/Blasanka/limbcare"
         tagline: "Second year second Sem project for a real client(Limbcare (PVT) LTD.). using Laravel framework + MySQL"
 
-      - title: vehicle Rent System
-        link: "#"
+      - title: Vehicle Rent System
+        link: "https://github.com/Blasanka/VehicleRentSystem"
         tagline: "A Java standalone application."
 
-      - title: other
-        link: "#"
+      - title: Other
+        link: "https://github.com/Blasanka/"
         tagline: "There are few other applications that I have built to learn new technologies like Angular, React."
 
 publications:
@@ -142,6 +178,10 @@ publications:
     intro: |
       I have been posting blog post and youtube videos since 2016 and it is a very interesting thing for me.
 
+    subintro1: Videos
+    
+    subintro2: Blog
+      
     youtube:
       - channel: Ego with Coding
         about: Programming
@@ -154,6 +194,19 @@ publications:
       - channel: Sri Lanka Computer Graphics (SLCG)
         about: Entertainment
         tags: Lyrics, How to, Graphic Design, Animation, Top 10
+
+    blog:
+      - channel: slcoderlk.blogspot.com
+        about: Programming
+        tags: Flutter, Java, Android, Firebase
+
+      - channel: sinhalacoder.blogspot.com
+        about: Programming
+        tags: Java, HTML, CSS, Javascript, PHP
+
+      - channel: blasflutterblog.firebaseapp.com
+        about: Programming
+        tags: Flutter, Dart
 
 skills:
     title: Skills &amp; Proficiency

@@ -1,3 +1,11 @@
+<div class="languages-container container-block info">
+  {% if sidebar.info %}
+    <h2 class="container-block-title">
+      {{ sidebar.info | markdownify }}
+    </h2>
+  {% endif %}
+</div>
+  
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
@@ -18,6 +26,14 @@
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
+
+    <div class="social">
+      {% if sidebar.info %}
+        <h2 class="container-block-title">
+          {{ sidebar.social | markdownify }}
+        </h2>
+      {% endif %}
+    </div>  
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
