@@ -154,7 +154,7 @@ projects:
         tagline: "This app will be a great choice to someone who wants to learn a new language. Download in playstore or get sourcecode."
 
       - title: Vocab the word reminder (Flutter Pro version)
-        link: "https://blasanka.github.io/my_resume/vocab-pro"
+        link: "vocab-pro"
         tagline: "This is the pro version of the vocab with great features and this is not available in github. I used Flutter UI framework and the Firebase as the realtime database."
 
       - title: StudyMate
