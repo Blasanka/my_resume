@@ -213,25 +213,46 @@ skills:
 
     toolset:
       - name: Java
-        level: 75%
+        level: 80%
 
       - name: Dart
-        level: 65%
+        level: 70%
+
+      - name: "C# & .Net"
+        level: 40%
 
       - name: Python #& Django
         level: 40%
 
-      - name: Javascript #& jQuery
-        level: 50%
+      - name: C++
+        level: 40%
 
       - name: HTML5 & CSS
-        level: 88%
+        level: 90%
 
-      - name: Node.js
-        level: 40%
+      - name: Javascript #& jQuery
+        level: 80%
 
-      - name: Angular
-        level: 40%
+      - name: Node.js & Express.js
+        level: 65%
+
+      - name: AngularJS & Angular4+
+        level: 80%
+
+      - name: React
+        level: 80%
+
+      - name: MySQL
+        level: 75%
+
+      - name: MSSQL
+        level: 70%
+
+      - name: NoSQL(MongoDB)
+        level: 90%
+
+      - name: JSON & XML
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
