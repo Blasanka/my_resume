@@ -70,10 +70,10 @@ sidebar:
       - item: Martial Art
         link:
 
-      - item: Reading(Medium + book)
+      - item: Reading(Medium + books)
         link:
 
-      - item: Watching(Youtube + movie)
+      - item: Watching(Youtube + movies)
         link:
 
 career-profile:
@@ -253,6 +253,12 @@ skills:
 
       - name: JSON & XML
         level: 95%
+
+      - name: Android SDK
+        level: 70%
+
+      - name: Flutter
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
