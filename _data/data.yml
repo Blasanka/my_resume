@@ -233,6 +233,9 @@ skills:
       - name: Javascript #& jQuery
         level: 80%
 
+      - name: Laravel
+        level: 70%
+
       - name: Node.js & Express.js
         level: 65%
 
