@@ -78,7 +78,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary:
       I am a programming enthusiast, who is willing to learn new technolgies/frameworks 
       and I have hands on experience of few programming languages in past four years. 
       And current focus is to get work experience.
@@ -87,9 +87,9 @@ education:
     - degree: Third year Undergraduate
       university: SLIIT
       time: 2016 - current
-      details: |
+      details:
         Currently Second year completed undergraduate and studied Art stream(ICT, Media and Geography) for Advanced Level at Rahula College Matara.
-		
+
           - 2012 - 2014    A/L
           - 2016 - current SLIIT
 
