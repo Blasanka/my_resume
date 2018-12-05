@@ -2,6 +2,8 @@
 # Undergraduate at SLIIT
 ## Full Stack Developer
 
+https://blasanka.github.io/my_resume/
+
 ## This is my online resume design using a Jekyll template, Following are from orginal cv template readme:
 
 <a href="https://jekyll-themes.com">
