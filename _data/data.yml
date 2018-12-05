@@ -45,11 +45,11 @@ sidebar:
       - item: Gist
         link: https://gist.github.com/Blasanka
       
-      # - item: SQLFiddle
-      #   link: http://sqlfiddle.com/
+      - item: SQLFiddle
+        link: http://sqlfiddle.com/
 
-      # - item: Dribbble
-      #   link: https://dribbble.com/blasanka
+      - item: CodeWars
+        link: https://codewars.com/blasanka
 
       - item: p5js
         link: https://editor.p5js.org/blasanka/sketches
