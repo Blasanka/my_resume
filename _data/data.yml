@@ -140,9 +140,7 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Following are few projects that I am working on and there are some other projects that I have designed to do.
 
     assignments:
       - title: Vocab the word reminder (Android SDK)
