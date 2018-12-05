@@ -1,5 +1,5 @@
 # I am B Liyanage Asanka
-# Undergraduate at SLIIT
+## Undergraduate at SLIIT
 ## Full Stack Developer
 
 https://blasanka.github.io/my_resume/
