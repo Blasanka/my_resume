@@ -2,13 +2,13 @@
 
 # Site Settings
 title: Asanka B.L. Resume
-url: 'http://blasanka.github.io/'
+url: 'http://blasanka.github.io'
 baseurl: '/my_resume' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 
 # Tracker
-analytics: 
+analytics: "UA-129277090-1"
 
 # Sass/SCSS
 sass:
